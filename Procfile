@@ -1,1 +1,0 @@
-web: wordcount-project.wsgi
